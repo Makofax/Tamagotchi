@@ -1,0 +1,93 @@
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.csprojAssemblyReference.cache
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Dodgeball.g.cs
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\MainWindow.g.cs
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\App.g.cs
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection_MarkupCompile.cache
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection_MarkupCompile.lref
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchi Selection.exe.config
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchi Selection.exe
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchi Selection.pdb
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Games.dll
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchis.dll
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchis.pdb
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchis.dll.config
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Games.pdb
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Dodgeball.baml
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\MainWindow.baml
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.g.resources
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi_Selection.Properties.Resources.resources
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.csproj.GenerateResource.cache
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.csproj.CoreCompileInputs.cache
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.csproj.CopyComplete
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.exe
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.pdb
+I:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.csprojResolveAssemblyReference.cache
+I:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Dodgeball.g.cs
+I:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\MainWindow.g.cs
+I:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\App.g.cs
+I:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection_MarkupCompile.cache
+I:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection_MarkupCompile.lref
+I:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.exe
+I:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.pdb
+I:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchi Selection.exe.config
+I:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchi Selection.exe
+I:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchi Selection.pdb
+I:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Games.dll
+I:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchis.dll
+I:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchis.pdb
+I:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchis.dll.config
+I:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Games.pdb
+I:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Dodgeball.baml
+I:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\MainWindow.baml
+I:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.g.resources
+I:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi_Selection.Properties.Resources.resources
+I:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.csproj.GenerateResource.cache
+I:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.csproj.CoreCompileInputs.cache
+I:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.csproj.CopyComplete
+G:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchi Selection.exe.config
+G:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchi Selection.exe
+G:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchi Selection.pdb
+G:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Games.dll
+G:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchis.dll
+G:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchis.pdb
+G:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchis.dll.config
+G:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Games.pdb
+G:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.csprojAssemblyReference.cache
+G:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Dodgeball.g.cs
+G:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\MainWindow.g.cs
+G:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\App.g.cs
+G:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection_MarkupCompile.cache
+G:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection_MarkupCompile.lref
+G:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Dodgeball.baml
+G:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\MainWindow.baml
+G:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.g.resources
+G:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi_Selection.Properties.Resources.resources
+G:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.csproj.GenerateResource.cache
+G:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.csproj.CoreCompileInputs.cache
+G:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.csproj.CopyComplete
+G:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.exe
+G:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.pdb
+D:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchi Selection.exe.config
+D:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchi Selection.exe
+D:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchi Selection.pdb
+D:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Games.dll
+D:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchis.dll
+D:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchis.pdb
+D:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Tamagotchis.dll.config
+D:\Tamagotchi Selection\Tamagotchi Selection\bin\Debug\Games.pdb
+D:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.csprojResolveAssemblyReference.cache
+D:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Dodgeball.g.cs
+D:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\MainWindow.g.cs
+D:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\App.g.cs
+D:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection_MarkupCompile.cache
+D:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection_MarkupCompile.lref
+D:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Dodgeball.baml
+D:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\MainWindow.baml
+D:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.g.resources
+D:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi_Selection.Properties.Resources.resources
+D:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.csproj.GenerateResource.Cache
+D:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.csproj.CoreCompileInputs.cache
+D:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.exe
+D:\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Tamagotchi Selection.pdb
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Interaction.g.cs
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Debug\Interaction.baml

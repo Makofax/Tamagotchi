@@ -1,0 +1,25 @@
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\bin\Release\Tamagotchi Selection.exe.config
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\bin\Release\Tamagotchi Selection.exe
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\bin\Release\Tamagotchi Selection.pdb
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\bin\Release\Games.dll
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\bin\Release\Tamagotchis.dll
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\bin\Release\Tamagotchis.pdb
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\bin\Release\Tamagotchis.dll.config
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\bin\Release\Games.pdb
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Release\Tamagotchi Selection.csprojAssemblyReference.cache
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Release\Dodgeball.g.cs
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Release\Interaction.g.cs
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Release\MainWindow.g.cs
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Release\App.g.cs
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Release\Tamagotchi Selection_MarkupCompile.cache
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Release\Tamagotchi Selection_MarkupCompile.lref
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Release\Dodgeball.baml
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Release\Interaction.baml
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Release\MainWindow.baml
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Release\Tamagotchi Selection.g.resources
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Release\Tamagotchi_Selection.Properties.Resources.resources
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Release\Tamagotchi Selection.csproj.GenerateResource.cache
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Release\Tamagotchi Selection.csproj.CoreCompileInputs.cache
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Release\Tamagotchi Selection.csproj.CopyComplete
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Release\Tamagotchi Selection.exe
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchi Selection\obj\Release\Tamagotchi Selection.pdb

@@ -1,0 +1,6 @@
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Games\bin\Debug\Games.dll
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Games\bin\Debug\Games.pdb
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Games\obj\Debug\Games.csprojAssemblyReference.cache
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Games\obj\Debug\Games.csproj.CoreCompileInputs.cache
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Games\obj\Debug\Games.dll
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Games\obj\Debug\Games.pdb

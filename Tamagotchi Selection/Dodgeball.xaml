@@ -1,0 +1,25 @@
+﻿<Window x:Class="Tamagotchi_Selection.Dodgeball"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tamagotchi_Selection"
+        mc:Ignorable="d"
+        Title="Dodgeball" Height="450" Width="800">
+    <Grid>
+        <Canvas x:Name="MyCanvas" HorizontalAlignment="Center" Height="400" Margin="10,10,10,0" VerticalAlignment="Top" Width="700" MouseDown="MyCanvas_MouseDown">
+            <Canvas.Background>
+                <ImageBrush ImageSource="Resources/forest.png"/>
+            </Canvas.Background>
+            <Image x:Name="Picture" Height="100" Canvas.Left="100" Canvas.Top="100" Width="100" Source="Resources/Mato.png" />
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" 
+        Name="PointText" 
+         VerticalAlignment="Top" Width="184" Height="39" TextAlignment="Center" FontSize="22"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" 
+        Name="MissedText" 
+         VerticalAlignment="Top" Width="184" Height="39" TextAlignment="Center" FontSize="22" Canvas.Left="287"/>
+
+        </Canvas>
+        <Button Name="Status" Content="Press to Quit" Margin="617,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="175" Height="50" Click="Exit"/>
+    </Grid>
+</Window>

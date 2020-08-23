@@ -1,0 +1,6 @@
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchis\bin\Release\Tamagotchis.dll.config
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchis\bin\Release\Tamagotchis.dll
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchis\bin\Release\Tamagotchis.pdb
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchis\obj\Release\Tamagotchis.csproj.CoreCompileInputs.cache
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchis\obj\Release\Tamagotchis.dll
+C:\Users\Makofax\source\repos\Tamagotchi Selection\Tamagotchis\obj\Release\Tamagotchis.pdb
